@@ -38,6 +38,5 @@
     <template>
         <name>runtime_commerce_oci:homeTemplateOneRegion</name>
     </template>
-    <CustomObject xmlns="http://soap.sforce.com/2006/04/metadata"> <actionOverrides>     <actionName>View</actionName>     <comment>Action override created by Lightning App Builder during activation.</comment>     <content>Page Name</content>     <formFactor>Large</formFactor>     <skipRecordTypeSelect>false</skipRecordTypeSelect>     <type>Flexipage</type> </actionOverrides> </CustomObject>
     <type>HomePage</type>
 </FlexiPage>
