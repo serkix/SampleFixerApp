@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>EUR</fullName>
+        <default>false</default>
+        <label>EUR (European euro)</label>
+    </customValue>
+    <customValue>
+        <fullName>USD</fullName>
+        <default>false</default>
+        <label>USD (U.S. Dollar)</label>
+    </customValue>
+    <customValue>
+        <fullName>GBP</fullName>
+        <default>false</default>
+        <label>GBP (British Pound)</label>
+    </customValue>
+    <customValue>
+        <fullName>AUD</fullName>
+        <default>false</default>
+        <label>AUD (Australian Dollar)</label>
+    </customValue>
+    <customValue>
+        <fullName>CAD</fullName>
+        <default>false</default>
+        <label>CAD (Canadian Dollar)</label>
+    </customValue>
+    <customValue>
+        <fullName>CHF</fullName>
+        <default>false</default>
+        <label>CHF (Swiss Franc)</label>
+    </customValue>
+    <customValue>
+        <fullName>CNY</fullName>
+        <default>false</default>
+        <label>CNY (Chinese yuan)</label>
+    </customValue>
+    <customValue>
+        <fullName>JPY</fullName>
+        <default>false</default>
+        <label>JPY (Japanese yen)</label>
+    </customValue>
+    <masterLabel>Currencies</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>ApiConnectionError</fullName>
+        <categories>Error</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>API Connection Error</shortDescription>
+        <value>Error conencting to API</value>
+    </labels>
+    <labels>
+        <fullName>ApiResponseError</fullName>
+        <categories>Error</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>API Response Error</shortDescription>
+        <value>API returned error status</value>
+    </labels>
+    <labels>
+        <fullName>ApiWrongResponse</fullName>
+        <categories>Error</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>API Wrong Response</shortDescription>
+        <value>API returned unexpected response</value>
+    </labels>
+    <labels>
+        <fullName>ApiTokenRestriction</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Api Token Restriction</shortDescription>
+        <value>Unsupported currency for current API token subscription
+Note that for free subscription only EUR is allowed as sell currency</value>
+    </labels>
+    <labels>
+        <fullName>NewTradePost</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>New Trade Post</shortDescription>
+        <value>A new trade has been created with the following data:
+Sell Currency: {sellCcy}
+Sell Amount: {sellAmount}
+Buy Currency: {buyCcy}
+Buy Amount: {buyAmount}
+Rate: {rate}
+Booked Date: {date}
+Link to the trade: {tradeLink}</value>
+    </labels>
+    <labels>
+        <fullName>RecordCreated</fullName>
+        <categories>Event</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Record Created</shortDescription>
+        <value>Record successfully created, see it {0}</value>
+    </labels>
+    <labels>
+        <fullName>freeTokenRestriction</fullName>
+        <categories>Error</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Free Token Restriction</shortDescription>
+        <value>Unsupported currency for current API token subscription
+Note that for free subscription only EUR is allowed as sell currency</value>
+    </labels>
+</CustomLabels>

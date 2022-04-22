@@ -1,0 +1,31 @@
+.newTradeContainer {
+    display: flex;
+    flex-direction: row; 
+    margin: 5px;
+    justify-content: space-between;
+    text-align: center;
+}
+.newTradeRow {
+    flex: 1;
+    display: flex;
+    flex-direction: column; 
+    justify-content: space-between;
+}
+.newTradeRateRow {
+    flex: 1;
+    display: flex;
+    flex-direction: row; 
+    justify-content: space-between;
+    height: 33%;
+    align-items: center;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.newTradeCreateButton {
+    text-align: start;
+    margin: 10px;
+}
+.newTradeCancelButton {
+    text-align: end;
+    margin: 10px;
+}

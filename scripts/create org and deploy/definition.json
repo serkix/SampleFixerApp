@@ -1,0 +1,10 @@
+{
+    "orgName": "AndrejsSampleFixer",
+    "edition": "Developer",
+    "features": [],
+    "settings": {
+        "schemaSettings":{
+            "enableListCustomSettingCreation": "true"
+        }  
+    }
+  }

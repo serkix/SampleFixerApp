@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompactLayout xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>TradeCompactLayout</fullName>
+    <fields>Name</fields>
+    <fields>SellCurrency__c</fields>
+    <fields>SellAmount__c</fields>
+    <fields>BuyCurrency__c</fields>
+    <fields>BuyAmount__c</fields>
+    <fields>Rate__c</fields>
+    <fields>DateBooked__c</fields>
+    <label>Trade compact layout</label>
+</CompactLayout>
